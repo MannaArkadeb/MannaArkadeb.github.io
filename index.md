@@ -6,27 +6,23 @@ layout: home
 author_profile: true
 ---
 
-Hi! I am Toshit Jain, a Computer Science Undergraduate at Indian Institute of Technology
-Guwahati (IIT, Guwahati), Guwahati, India. I am interested in problem solving, mathematics and 
-competitive programming. Except for technical stuff, I enjoy playing 
-guitar. I am open to any opportunity for Winter 2025 & Summer 2026. 
+Hi! I am Arkadeb Manna, a Computer Science Undergraduate at Indian Institute of Technology
+Guwahati (IIT, Guwahati), Guwahati, India. I am interested in problem solving, machine learning, mathematics and 
+competitive programming. Except for technical stuff, I enjoy swimming and playing tabble tennis. I am open to any opportunity for Winter 2026 & Summer 2027. 
 Feel free to approach me through the emails given.
 
 ## Technical Interests
 
-- **Competitive Programming :** Coming up with efficient algorithms and accurate implementations
-is always fun. I love giving contests and participating with my team in nation wide competitions.
-I also have a keen interest in C++ and low level programming!
+- **Machine Learning :** I have a keen interesnt in Machine Learning and AI
+and have done a decent amount of implementation in various projects, like Vortex-Financial Agent, Fake News Detection by Graph Neural Networks.
 
-- **Problem Solving & Mathematics :** I love to solve all kind of mathematical problems
-especially non-routine. I really like to solve puzzles during my free time.
+- **C++ Based Programming :** Coming up with efficient algorithms and accurate implementations
+is always fun. I have built projects on C++ including Naval Battleship Game (with multiplayer integration).
+I have also contributed in GirlScript Summer of Code 2026 in C++ in Project CinderPeak.
 
-- **Machine Learning :** I have a decent interesnt in Machine Learning and AI as well
-and have done a decent amount of implementation in some basic projects, like implementing
-UNets and ResNets or using PaddleOCR(only application).
+- **Problem Solving & Mathematics :** I also have interest in Competitive Programming and thus give regular contests in Competitive Programming platforms.
 
 ## Non Technical Interests
 
-I like to learn & play fingerstyle technique on acoustic guitar. I also love listening to
-pop music and some Japanese music as well. I like to play table tennis as a sport
-(although I am not so good at it :p).
+I like to swimming . I also enjoy painting specially portraits in pencil sketch. I like to play table tennis as a sport
+(although I am not a pro at it :p).

@@ -1,4 +1,4 @@
-  ---
+---
 title: "Voretx Financial Agent"
 date: 2025-11-30
 author: "Arkadeb Manna"

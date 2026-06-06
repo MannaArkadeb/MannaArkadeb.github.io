@@ -10,9 +10,7 @@ tags :
     - Graph Neural Network
 ---
 
-## Fake News Detection by Graph Neural Network
-
-## Project Overview
+## Project Overview :
 * This project focuses on classifying news articles into **Fake** and **Real** categories.
 * It utilizes Graph Neural Networks (GNNs) on social and contextual interaction graphs.
 * The system combines both structural graph data and textual semantic data.

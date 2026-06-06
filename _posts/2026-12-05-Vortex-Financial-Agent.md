@@ -8,7 +8,7 @@ tags :
     - Machine Learning
 ---
 
-## Vortex - Financial Agent
+## Project Overview : End-to-end, AI-driven financial platform that automates portfolio management, financial research, and user onboarding. It combines reinforcement learning, retrieval-augmented generation (RAG), and real-time data streaming to provide risk-adaptive, explainable, and fully compliant investment strategies.
 
 ## Introduction 
 

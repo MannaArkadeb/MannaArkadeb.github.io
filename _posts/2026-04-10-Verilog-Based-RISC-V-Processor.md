@@ -10,7 +10,7 @@ tags :
     - Project
 ---
 
-## Project Overview
+## Project Overview :
 * Developed a fully functional 5-stage pipelined RISC-V processor.
 * Executed as a Course Project for CS224, Hardware Laboratory (Apr. 2026).
 * Codebase and repository: bit.ly/RISCV_Processor

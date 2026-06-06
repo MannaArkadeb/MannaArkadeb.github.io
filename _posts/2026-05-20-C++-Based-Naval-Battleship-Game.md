@@ -11,7 +11,7 @@ tags:
   - Object Oriented Programming
 ---
 
-## Project Overview
+## Project Overview : 
 * This project is a complete Battleship game implemented entirely in C++.
 * It utilizes a Linux/WSL client-server architecture built in distinct functional layers.
 * Multiple players can connect to the server via sockets, wait in a synchronized matchmaking queue, and play turn-based matches directly from the terminal.

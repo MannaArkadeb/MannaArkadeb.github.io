@@ -1,5 +1,5 @@
 ---
-title: "Voretx Financial Agent"
+title: "Vortex Financial Agent"
 date: 2025-11-30
 author: "Arkadeb Manna"
 words_per_minute : 100
